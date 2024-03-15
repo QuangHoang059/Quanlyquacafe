@@ -1,0 +1,229 @@
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\banhang.exe.config
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\banhang.exe
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\banhang.pdb
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\EnvDTE.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\stdole.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\Microsoft.MSXML.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\banhang\banhang\obj\Release\banhang.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\banhang\banhang\obj\Release\banhang.doimkstaff.resources
+C:\Users\Admin\Desktop\banhang\banhang\obj\Release\banhang.Form1.resources
+C:\Users\Admin\Desktop\banhang\banhang\obj\Release\banhang.Form2.resources
+C:\Users\Admin\Desktop\banhang\banhang\obj\Release\banhang.Form3.resources
+C:\Users\Admin\Desktop\banhang\banhang\obj\Release\banhang.Form4.resources
+C:\Users\Admin\Desktop\banhang\banhang\obj\Release\banhang.Properties.Resources.resources
+C:\Users\Admin\Desktop\banhang\banhang\obj\Release\banhang.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\banhang\banhang\obj\Release\banhang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\banhang\banhang\obj\Release\banhang.exe
+C:\Users\Admin\Desktop\banhang\banhang\obj\Release\banhang.pdb
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\database\QuanBanhang.mdf
+C:\Users\Admin\Desktop\banhang\banhang\bin\Release\database\QuanBanhang_log.ldf
+C:\Users\Admin\Desktop\banhang\banhang\obj\Release\banhang.csproj.AssemblyReference.cache
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\database\QuanBanhang.mdf
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\database\QuanBanhang_log.ldf
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\banhang.exe.config
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\banhang.exe
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\banhang.pdb
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\EnvDTE.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\stdole.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\Microsoft.MSXML.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\obj\Release\banhang.csproj.AssemblyReference.cache
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\obj\Release\banhang.csproj.SuggestedBindingRedirects.cache
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\obj\Release\banhang.csproj.ResolveComReference.cache
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\obj\Release\banhang.doimkstaff.resources
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\obj\Release\banhang.Form1.resources
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\obj\Release\banhang.Form2.resources
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\obj\Release\banhang.Form3.resources
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\obj\Release\banhang.Form4.resources
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\obj\Release\banhang.Properties.Resources.resources
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\obj\Release\banhang.csproj.GenerateResource.cache
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\obj\Release\banhang.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\obj\Release\banhang.csproj.CopyComplete
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\obj\Release\banhang.exe
+C:\Users\LAPTOP MSI\Desktop\banhang\banhang\obj\Release\banhang.pdb
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\database\QuanBanhang.mdf
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\database\QuanBanhang_log.ldf
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\banhang.exe.config
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\banhang.exe
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\banhang.pdb
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\EnvDTE.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\stdole.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\Microsoft.MSXML.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\obj\Release\banhang.csproj.AssemblyReference.cache
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\obj\Release\banhang.csproj.SuggestedBindingRedirects.cache
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\obj\Release\banhang.csproj.ResolveComReference.cache
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\obj\Release\banhang.doimkstaff.resources
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\obj\Release\banhang.Form1.resources
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\obj\Release\banhang.Form2.resources
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\obj\Release\banhang.Form3.resources
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\obj\Release\banhang.Form4.resources
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\obj\Release\banhang.Properties.Resources.resources
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\obj\Release\banhang.csproj.GenerateResource.cache
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\obj\Release\banhang.csproj.CoreCompileInputs.cache
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\obj\Release\banhang.csproj.CopyComplete
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\obj\Release\banhang.exe
+C:\Users\quang\Desktop\AllDemo_dev\banhang\banhang\obj\Release\banhang.pdb
